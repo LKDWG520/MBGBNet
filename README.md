@@ -1,8 +1,5 @@
 # MBGBNet
 ## An optimized and precise road crack segmentation network in complex scenarios
-
-## Introduce
-
 ## Code
 Code is being organized, please wait!
 
